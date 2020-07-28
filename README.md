@@ -9,3 +9,5 @@ Estudiante
 Kardex
 131313
 333333
+
+Nota:configurar $config['base_url'] = '' de config.php si no carga correctamente la web;(Se trabajo con Laragon)
