@@ -61,3 +61,5 @@ $route['motor'] = 'workflow/motor';
 
 // rutas webgl
 $route['webgl'] = 'webgl/webgl';
+// rutas contorno imagen
+$route['imagen'] = 'imagen/imagen';

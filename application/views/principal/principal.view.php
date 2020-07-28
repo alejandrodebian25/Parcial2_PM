@@ -37,7 +37,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                         <p class="card-text">Obtenga los contornos de una imagen cualquiera.</p>
                     </div>
                     <div class="card-footer">
-                        <a href="<?= base_url('motor?codflujo=F1&codproceso=P1') ?>" class="btn btn-success btn-block">Ir</a>
+                        <a href="<?= base_url('imagen') ?>" class="btn btn-success btn-block">Ir</a>
                     </div>
                 </div>
                 <!--  -->
