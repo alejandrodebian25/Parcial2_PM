@@ -1,0 +1,9 @@
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\bin\Debug\ContornoImagen.exe.config
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\bin\Debug\ContornoImagen.exe
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\bin\Debug\ContornoImagen.pdb
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.Form1.resources
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.Properties.Resources.resources
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.csproj.GenerateResource.Cache
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.exe
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.pdb
+c:\users\alejandro\documents\visual studio 2012\Projects\ContornoImagen\ContornoImagen\obj\Debug\ContornoImagen.csprojResolveAssemblyReference.cache
